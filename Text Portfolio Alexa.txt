@@ -1,0 +1,50 @@
+* HOME
+home__social
+https://www.linkedin.com/
+https://github.com/
+https://dribbble.com/
+
+home__description
+Information Systems student • Software Technology Option @ CSUN. Building clean, fast web apps and tinkering with hardware projects. Looking for internships.
+
+
+* ABOUT
+about__description
+Dhruval Patel is an information systems student • software technology option @ csun based in Northridge, CA. Studying at California State University, Northridge. Interested in full‑stack web, data, and hardware prototypes (IoT/PCB).
+
+about__info-name
+Years <br> experience
+Completed <br> project
+Companies <br> worked
+
+
+* SERVICES
+services__modal-service
+I develop the user interface.
+Web page development.
+I create ux element interactions.
+I position your company brand.
+
+
+* PORTFOLIO
+portfolio__description
+Website adaptable to all devices, with ui components and animated interactions.
+
+
+* PROJECT
+project__description
+Contact me now and get a 30% discount on your new project.
+
+
+* TESTIMONIAL
+testimonial__description
+Collaborators say I deliver fast and keep things simple. I care about polish and practical impact.
+
+
+* FOOTER
+footer__social
+https://www.linkedin.com/
+https://github.com/
+
+
+
